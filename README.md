@@ -1,69 +1,146 @@
-<h1 align="center">Hi there, I'm remukgank 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# Hi there, I'm remukgank 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+[![Typing SVG](https://komarev.com/ghpvc/?username=remukgank&color=blueviolet&style=flat-square)](https://github.com/remukgank)
+
+</div>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-Ane adalah seorang developer yang suka mengulik teknologi baru, membangun proyek seru, dan sesekali membagikan isi pikiran lewat kode. 
+> *"Suka begadang bukan karena kopi, tapi karena nyari bug yang ternyata cuma kurang titik koma (`;`)."*
 
-- 🔭 **Sedang sibuk dengan:** Proyek [NGAWUR]
-- 🌱 **Lagi mendalami:** JavaScript/TypeScript, React, Go, atau Cloud Computing
-- 👯 **Terbuka untuk kolaborasi:** Di bidang web development atau open-source tools
-- 💬 **Tanya ane tentang:** Apapun terkait teknologi, coding, atau kopi ☕
-- ⚡ **Fun fact:** Suka begadang bukan karena kopi, tapi karena nyari *bug* yang ternyata cuma kurang titik koma (`;`).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  
-  <!-- Backend / Language -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+- 🔭 **Sedang sibuk dengan:** Proyek [NGAWUR](https://github.com/remukgank/PRJS)
+- 🌱 **Lagi mendalami:** JavaScript/TypeScript, React, Go, Cloud Computing
+- 👯 **Terbuka untuk kolaborasi:** Web development & open-source tools
+- 💬 **Tanya saya tentang:** Teknologi, coding, atau kopi ☕
+- 📍 **Status:** 🎯 Focusing
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remukgank&show_icons=true&theme=tokyonight&count_private=true" alt="remukgank's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remukgank&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remukgank&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="40" height="40"/>
+      <br>Go
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="40" height="40"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="40" height="40"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="40" height="40"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="40" height="40"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:remukgankofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=remukgank&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<a href="https://github.com/remukgank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remukgank&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remukgank&layout=compact&theme=tokyonight" />
+</a>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=remukgank&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=remukgank&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=remukgank&theme=redical)
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/remukgank" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:remukgankofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://instagram.com/remukgank" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/remukgank" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/remukgank/count.svg)
+
+✨ *Thanks for visiting my profile!*
+
+</div>
